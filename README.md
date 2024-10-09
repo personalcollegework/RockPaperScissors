@@ -33,4 +33,6 @@ This is a simple Rock Paper Scissors game developed using Python and the Pygame 
 3. Place your choice images (rock.png, paper.png, scissors.png) in the same directory as the game script.
    
 ## Running the Game
-To start the game, tun the following command in your terminal: 'python game.py'
+To start the game, tun the following command in your terminal: 
+   ```bash
+   python game.py
