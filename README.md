@@ -27,7 +27,8 @@ This is a simple Rock Paper Scissors game developed using Python and the Pygame 
    cd rock-paper-scissors
    
 2. Install Pygame:
-- pip install pygame
+   ```bash
+   pip install pygame
   
 3. Place your choice images (rock.png, paper.png, scissors.png) in the same directory as the game script.
    
