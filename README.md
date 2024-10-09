@@ -24,7 +24,7 @@ This is a simple Rock Paper Scissors game developed using Python and the Pygame 
 1. Clone the repository:
    ```bash
    git clone https://github.com/personalcollegework/RockPaperScissors
-   cd rock-paper-scissors
+   cd RockPaperScissors
    
 2. Install Pygame:
    ```bash
